@@ -8,10 +8,17 @@ Group Members are:
 5. Chaitali Agarwal (IIT2018504)
 
 The Assignments submitted are:
+
 Assignment 1 - k-Times Markov Sampling for SVMC.
+
 Assignment 2 - The Generalization Ability of SVM Classification Based on Markov Sampling.
+
 Assignment 3 - A One-Class Classification decision Tree based on kernel density estimation.
+
 Assignment 4 - Deep One-Class Classification.
+
 Assignment 5 - Deep Support Vector Data Description for Unsupervised and Semi-Supervised Anomaly Detection.
+
 Assignment 6 - One-Class Slab Support Vector Machine.
+
 Assignment 7 - SVM-Boosting based on Markov resampling: Theory and algorithm.
