@@ -7,7 +7,7 @@ This is for Data Mining and Warehouse Group Assignment.
 4. Nandini Goyal (IIT2018173)
 5. Chaitali Agarwal (IIT2018504)
 
-#Assignments
+# Assignments
 
 Assignment 1 - k-Times Markov Sampling for SVMC.
 
