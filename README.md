@@ -1,6 +1,6 @@
 # DMI
-This is for Data Mining Group Assignment.
-Group Members are:
+This is for Data Mining and Warehouse Group Assignment.
+# Group Members 
 1. Meghna Batra (IIT2018109)
 2. Riya Chaudhary (IIT2018145)
 3. Vidhi Sah (IIT2018169)
